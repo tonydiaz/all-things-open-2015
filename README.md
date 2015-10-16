@@ -12,7 +12,7 @@ Time/Day | Monday | Tuesday
 09:00 | | 
 09:30 |Keynote | 
 10:00 |Keynote/Break | 
-10:30 |BEGINNER’S GUIDE TO ANGULAR 2.0 Backup: CLoud 2.0 | 
+10:30 |<ul><li>BEGINNER’S GUIDE TO ANGULAR 2.0</li><li>Backup: CLoud 2.0</li></ul> | 
 11:00 | | 
 11:30 |DevOps: Docker; Backup: Contributing to Open Source | 
 12:00 | | 
